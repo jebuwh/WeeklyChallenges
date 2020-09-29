@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Xunit;
+using System.Linq;
 
 namespace ChallengesWithTestsMark8.Tests
 {
